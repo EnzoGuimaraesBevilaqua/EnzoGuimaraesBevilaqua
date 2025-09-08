@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Enzo!
 
 🎓 I'm currently studying **Computer Engineering** at [CESUPA](https://www.cesupa.br).  
-💻 Passionate about software development, embedded systems, and exploring **Machine Learning**.  
+💻 Passionate about software development, problem-solving, and exploring **Machine Learning**.   
 ⚡ I have experience with **Python, C, Java, SQL, Arduino**, and I often work with **VS Code**.  
 
 ---
