@@ -25,5 +25,5 @@
 ---
 
 ## 🌎 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/enzo-b-aa416821b/)  
-- [Gmail](enzoguimaraesbevilaqua@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/enzo-b-aa416821b/)
+- 📧 **Gmail:** enzoguimaraesbevilaqua@gmail.com
