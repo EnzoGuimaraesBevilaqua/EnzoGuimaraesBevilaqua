@@ -15,12 +15,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobevilaqua&show_icons=true&theme=tokyonight)
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoGuimaraesBevilaqua&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobevilaqua&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuimaraesBevilaqua&layout=compact&theme=tokyonight)
 
 ---
 
