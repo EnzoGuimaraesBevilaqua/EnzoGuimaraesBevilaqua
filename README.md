@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, C, Java, SQL  
-- **Tools & IDEs:** VS Code, Git, GitHub  
+- **Tools & IDEs:** VS Code, Git, GitHub, PgAdmin 
 - **Hardware:** Arduino, ESP32  
 - **Currently learning:** Machine Learning & Data Science  
 
